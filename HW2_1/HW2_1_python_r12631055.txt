@@ -1,0 +1,4 @@
+Maxlength:
+10
+Substring:
+atccggcatt
